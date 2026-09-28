@@ -1,4 +1,4 @@
-# 📸 UTAGRAM
+# UTAGRAM
 
 > Clon de Instagram desarrollado para la comunidad de la **Universidad Técnica de Ambato (UTA)**.
 
